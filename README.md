@@ -12,7 +12,7 @@ This repository demonstrates practical SOC detection engineering skills through 
 - **Documented** with false positive analysis
 
 ## 🏗️ Repository Structure
-[We'll add this structure later]
+
 
 ## 🚀 Quick Start
 1. Import rules into Google Chronicle
